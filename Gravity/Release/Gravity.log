@@ -1,0 +1,14 @@
+﻿  ManifestationStatic.cpp
+E:\桌面\Gravity\Gravity\ManifestationStatic.cpp(117,10): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\桌面\Gravity\Gravity\ManifestationStatic.cpp(122,10): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\桌面\Gravity\Gravity\ManifestationStatic.cpp(211,13): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\桌面\Gravity\Gravity\ManifestationStatic.cpp(287,30): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\桌面\Gravity\Gravity\ManifestationStatic.cpp(288,30): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\桌面\Gravity\Gravity\ManifestationStatic.cpp(350,14): warning C4244: “初始化”: 从“double”转换到“ULONG64”，可能丢失数据
+E:\桌面\Gravity\Gravity\ManifestationStatic.cpp(408,19): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  正在生成代码
+  94 of 806 functions (11.7%) were compiled, the rest were copied from previous compilation.
+    35 functions were new in current compilation
+    36 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Gravity.vcxproj -> E:\桌面\Gravity\Release\Gravity.exe
